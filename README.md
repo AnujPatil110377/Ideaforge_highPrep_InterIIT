@@ -1,4 +1,5 @@
 # Fault-Tolerant Quadcopter Control System
+[Google Slides Presentation](https://docs.google.com/presentation/d/1b5gRgLu1QIEYUdiTmifqNZiVayyQPvTt/edit?usp=sharing&ouid=117037765894033911965&rtpof=true&sd=true)
 
 Official implementation for IdeaForge's Inter-IIT Tech Meet 13.0 problem statement on fault-tolerant quadcopter control during motor failures.
 
